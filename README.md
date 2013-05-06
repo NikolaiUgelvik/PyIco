@@ -11,5 +11,5 @@ It supports all the formats the Python Imaging Library does, which includes:
 - JPEG
 - TGA
 
-Usage:
+##Usage:
 `./pyico.py -o test.ico test.png test2.png`
