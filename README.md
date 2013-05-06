@@ -12,4 +12,4 @@ It supports all the formats the Python Imaging Library does, which includes:
 - TGA
 
 Usage:
-~./ico.py -o test.ico test.png test2.png~
+`./pyico.py -o test.ico test.png test2.png`
